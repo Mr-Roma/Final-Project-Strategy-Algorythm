@@ -1,6 +1,6 @@
 # Finding the Closest Pair of Points in 3D with the Divide and Conquer Algorithm
 
-![DnC Program](./src/assets/home.png "DnC Program")
+![DnC Program](./src/assets/frame0/home.png "DnC Program")
 Finding the closest pair of points with the Divide and Conquer algorithm has been explained in the lecture. The problem is formulated for points on a flat plane (2D). In this Assignment 2, you are asked to develop an algorithm to find the closest pair of points on a 3D plane. Suppose there are n points in 3D space. Each point P in space is represented by coordinates P = (x, y, z). Find the pair of points that are closest to each other. The distance between two points P1 = (x1, y1, z1) and P2 = (x2, y2, z2) is calculated using the following Euclidean formula:
 $$
 
