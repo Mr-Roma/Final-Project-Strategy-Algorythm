@@ -11,7 +11,8 @@ $$
 | NIM        | Name                                | Tugas                                   |
 | --------   | ---------------------------         |-----------------------------------------|
 | 1301225492 | Romario Viegas Francisco Marcal     | Divide and Conquer algorithm, I/O, GUI  |
-| 1301224458 | Ari Ramadhan                        | Brute Force algorithm                  |
+| 1301224458 | Ari Ramadhan                        | Brute Force algorithm                   |
+| 1301224458 | Ari Ramadhan                        | Explain Source Code                     |
 
 ## About this project
 - Solves closest pair problem in 3D or up with either brute force or divide and conquer algorithm.
